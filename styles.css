@@ -1,11 +1,22 @@
+@import "tailwindcss";
+
 body {
   background-color: #000000;
   font-family: "Plus Jakarta Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  color: white;
+  color: #B3B3B3;
+  
+
 }
-.options{
-  background-color: #121212;
+
+a:hover {
+  color: #FFFFFF;
+}
+.playlist{
+  img{
+    width: 60px;
+    border-radius: 10px;
+  }
 }
