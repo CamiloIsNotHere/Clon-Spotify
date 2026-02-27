@@ -17,6 +17,9 @@ a:hover {
 .playlist{
   img{
     width: 60px;
+    height: 60px;
     border-radius: 10px;
   }
+  padding-top: 10px;
+  text-overflow: ellipsis;
 }
